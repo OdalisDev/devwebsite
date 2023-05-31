@@ -1,0 +1,41 @@
+
+html {
+  background: url(marble.jpg) no-repeat center fixed;
+  background-size: cover;
+}
+
+
+* {
+  margin:30px;
+  padding:5px;
+  box-sizing: border-box;
+  font-family: "poppins", sans-serif;
+  text-align: center;
+}
+
+.boxshadow {
+  padding: 15px;
+  background-color:white;
+  box-shadow: 0 0 10px 10px lightblue;
+}
+
+
+
+.square {
+list-style-type: square;
+
+
+}
+
+li {
+  margin: auto;
+  padding: 10px;
+}
+
+
+.footer__content {
+  width: 100%;
+  padding-block: 1.5rem;
+  font-weight: bold;
+  text-align:center;
+}
